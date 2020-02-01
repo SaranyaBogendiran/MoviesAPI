@@ -1,4 +1,4 @@
-"# MoviesAPI" 
+# MoviesAPI
 
 Following Use cases are possible in this API.
 
