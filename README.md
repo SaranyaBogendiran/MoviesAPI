@@ -1,6 +1,6 @@
 "# MoviesAPI" 
 
-Following Use case are possible in this API.
+Following Use cases are possible in this API.
 
 ###### Register the user:
 http POST http://127.0.0.1:8000/register email=test@gmail.com username=test password=password password2=password
